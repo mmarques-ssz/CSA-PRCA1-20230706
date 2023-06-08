@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\func2\func2\bin\Debug\func2.exe.config
+C:\Users\aluno\source\repos\func2\func2\bin\Debug\func2.exe
+C:\Users\aluno\source\repos\func2\func2\bin\Debug\func2.pdb
+C:\Users\aluno\source\repos\func2\func2\obj\Debug\func2.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\func2\func2\obj\Debug\func2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\func2\func2\obj\Debug\func2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\func2\func2\obj\Debug\func2.exe
+C:\Users\aluno\source\repos\func2\func2\obj\Debug\func2.pdb
